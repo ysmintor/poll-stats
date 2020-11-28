@@ -8,3 +8,6 @@
 # 结果显示
 输出得票前10的信息，并可示化所有得票信息。
 ![polls](https://lk.yorkyu.com/2020/11/28/da0f0e476eaeb.png)
+
+# 代码文件
+请参考目录中 poll_stats.py
